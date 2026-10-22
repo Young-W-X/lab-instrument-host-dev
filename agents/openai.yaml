@@ -1,0 +1,5 @@
+interface:
+  display_name: "Lab Instrument Host Development"
+  short_description: "Build safe, maintainable lab instrument control software"
+  brand_color: "#0EA5E9"
+  default_prompt: "Use $lab-instrument-host-dev to design and integrate a safe, testable instrument host application."
